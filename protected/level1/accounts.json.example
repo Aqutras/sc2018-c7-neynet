@@ -1,0 +1,56 @@
+{
+  "accounts": [
+    {
+      "id": "dionne",
+      "password": ""
+    },
+    {
+      "id": "toros",
+      "password": ""
+    },
+    {
+      "id": "keir",
+      "password": ""
+    },
+    {
+      "id": "marion",
+      "password": ""
+    },
+    {
+      "id": "frieda",
+      "password": ""
+    },
+    {
+      "id": "martha",
+      "password": ""
+    },
+    {
+      "id": "derick",
+      "password": ""
+    },
+    {
+      "id": "willie",
+      "password": ""
+    },
+    {
+      "id": "robina",
+      "password": ""
+    },
+    {
+      "id": "ginnie",
+      "password": ""
+    },
+    {
+      "id": "kimberly",
+      "password": ""
+    },
+    {
+      "id": "ricki",
+      "password": ""
+    },
+    {
+      "id": "brett",
+      "password": ""
+    }
+  ]
+}

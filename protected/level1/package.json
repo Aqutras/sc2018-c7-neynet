@@ -1,0 +1,38 @@
+{
+  "name": "seccamp2018-moba",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node bin/www",
+    "lint": "eslint --ext .js --ext .jsx app.js routes",
+    "lint:fix": "eslint --ext .js --ext .jsx app.js routes --fix"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "global": "^4.3.2",
+    "http-errors": "~1.6.2",
+    "lodash": "^4.17.10",
+    "morgan": "~1.9.0",
+    "node-sass-middleware": "0.11.0",
+    "node-uuid": "^1.4.8",
+    "pug": "2.0.0-beta11",
+    "ws": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-config-standard": "^12.0.0-alpha.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-prettier": "^2.6.0",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-react": "^7.7.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "prettier": "1.12.1"
+  }
+}
